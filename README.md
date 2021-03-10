@@ -9,4 +9,9 @@
 ### 3.개발 환경
 
 
-||Platform||||Lanuage||||Dev Tool||
+|Platform||Lanuage||Dev Tool|
+|:----|:----:|:----:|
+|WIndows10 X64|Java (JDK 1.8)|Eclipse 4.17|
+|i7-6700|
+|16G|
+
