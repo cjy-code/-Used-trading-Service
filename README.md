@@ -4,14 +4,19 @@
 ![슬라이드1](https://user-images.githubusercontent.com/69965049/110587536-2a15c480-81b7-11eb-9bc6-95bbc4483cd4.PNG)
 
 ### 2.벤치마킹
-![슬라이드5](https://user-images.githubusercontent.com/69965049/110587945-a4dedf80-81b7-11eb-9b1d-e326000b63b9.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/69965049/110670924-447c8c00-8211-11eb-8123-8efeb60b32ec.PNG)
+
 
 ### 3.개발 환경
 
 
-|Platform||Lanuage||Dev Tool|
-|:----|:----:|:----:|
+|Platform|Lanuage|Dev Tool|
+|:---------:|:---------:|:---------:|
 |WIndows10 X64|Java (JDK 1.8)|Eclipse 4.17|
 |i7-6700|
-|16G|
+|16G
+
+### 4.개발 기간
+![슬라이드9](https://user-images.githubusercontent.com/69965049/110670709-0a12ef00-8211-11eb-88e5-cf3bbdae734a.PNG)
+
 
